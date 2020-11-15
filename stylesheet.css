@@ -29,6 +29,25 @@ h2 {
     font-family:'Heebo', sans-serif;
     margin: 20px;
 }
+
+h4 {
+    font-family:'Heebo', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+h4 a{
+  font-family: 'Heebo', sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  color:#163750;
+}
+
+h4 a:hover {
+    background-color: #163750;
+    font-weight: bold;
+    color: #E6F6CA;
+    opacity: 0.7;
+}
 p {
     font-family: 'Heebo', sans-serif;
     color: black;
