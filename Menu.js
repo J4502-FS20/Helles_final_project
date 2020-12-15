@@ -2,7 +2,7 @@
 
 var dropdown = document.getElementById('dropdownMenu');
 
-var playlistSelectionDivs = document.getElementsByClassName('siteName');
+var SiteSelectionDivs = document.getElementsByClassName('siteName');
 
 for (var i = 0; i < dropdown.options.length; i++) {
   var optionName = dropdown.options[i].value;
